@@ -12,7 +12,7 @@ tree.insert(6)
 tree.insert(8)
 tree.insert(10)
 
-tree.print_nodes_at_distance(2)
+tree.print_nodes_at_distance(1)
 
 #        7
 #    4       9
